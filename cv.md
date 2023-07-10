@@ -60,5 +60,5 @@ return 'Odd';
 
 ### **Languages**:
 
-* English - **A1**
+* English - **B1**
 * Russian - Native
